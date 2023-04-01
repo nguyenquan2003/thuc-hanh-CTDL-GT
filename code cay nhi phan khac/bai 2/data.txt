@@ -1,0 +1,7 @@
+6
+D0014#Logic hoc#2#Ly thuyet
+A0010#Do hoa ung dung#3#Thuc hanh
+C0013#Thuc hanh mang may tinh#1#Thuc hanh
+B0021#Cau truc du lieu#3#Ly thuyet
+E0015#Giao duc the chat 2#2#Thuc hanh
+F0016#Quoc phong an ninh#1#Thuc hanh

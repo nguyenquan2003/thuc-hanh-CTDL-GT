@@ -1,0 +1,8 @@
+001#Nguyen Van An#CNTT#5.5#7#8.5 
+002#Nguyen Thanh Hung#CNTT#8.5#9#7.5
+003#Mai Tuan Anh#CNTP#6#7#8 
+004#Thai Van Hung#QTKD#8#9#7.5 
+005#Ngo Thi Thu Huong#CNTT#6#8#9 
+006#Tran Mai Thao#QTKD#8#7#10 
+0007#Nguyen Hoai An#CNTP#6#5#3 
+008#Pham Thanh Thuy#CNTP#2#6#3

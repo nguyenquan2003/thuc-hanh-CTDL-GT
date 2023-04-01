@@ -1,0 +1,15 @@
+So luong sinh vien: 2
+
+Ma Mon Hoc: MH001
+Ten Mon Hoc: CauTrucDuLieu
+So Tin Chi: 2
+Diem Tieu Luan: 6.20
+Diem Cuoi Ki: 4.80
+Diem Mon Hoc: 5.22
+
+Ma Mon Hoc: MH005
+Ten Mon Hoc: CoSoDuLieu
+So Tin Chi: 3
+Diem Tieu Luan: 8.00
+Diem Cuoi Ki: 5.30
+Diem Mon Hoc: 6.11

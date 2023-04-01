@@ -1,0 +1,7 @@
+SV001 DuongHoangHieu 07/04/2001 BRVT CNTT 7.4 B+ Kha
+SV002 NguyenMinhTien 13/05/2001 TP.HCM QTKD 6.5 B Kha
+SV003 DangVanKhanhDuy 22/08/2001 BenTre CNTT 5 C TrungBinh
+SV004 MaiMinhTuan 11/01/1999 BRVT CNTP 8.2 A Gioi
+SV005 HuynhTanDat 28/06/2000 HaNoi CK 7 B Kha
+SV006 NguyenTienDung 20/02/2000 BinhDuong 8.6 A Gioi
+SV007 TruongVanDinh 10/12/2001 DaNang 6 B kha

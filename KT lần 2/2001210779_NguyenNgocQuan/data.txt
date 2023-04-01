@@ -1,0 +1,7 @@
+6
+D0014#Tran van minh#2003#CNTT
+A0010#nguyen duy anh#2002#CNTT
+C0013#ho quoc bao#2001#CNMT
+B0021#nguyen gia huy#2003#CNTP
+E0015#tran van hai#2004#CNCK
+F0016#hoang van long#2003#CNHH
